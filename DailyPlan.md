@@ -1,6 +1,6 @@
 # Daily Plan
 ### *** Math *** 
-  -30 minutes 
+  - 30 minutes 
 ### *** Robotics Book ***
   - 30 minutes
 
