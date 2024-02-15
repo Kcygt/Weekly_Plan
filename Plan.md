@@ -4,7 +4,7 @@
   - Generate Straight line trajectory
   - Implement Inverse Kinematics using Bruno Block Diagram and Ozan's code
     
-#### VIA Question
+#### Viva Question
   - Singularity , Null space
   - Orginality for the thesis  
   - Explain
