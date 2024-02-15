@@ -1,12 +1,9 @@
-# Daily Plan
-### *** Math *** 
-  - 30 minutes 
-### *** Robotics Book ***
-  - 30 minutes
+# Weekly Plan
+## *** Date : 15/02/2024 - 22/02/2024
+### *** Task *** 
+  - Explain
+### *** Task *** 
+  - Explain
+### *** Task *** 
+  - Explain
 
-### *** Programming ***
-  - 30 Minutes
-  
-### *** Article ***
-  - 30 Minutes
-  
