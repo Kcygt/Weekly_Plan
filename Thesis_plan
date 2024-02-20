@@ -1,1 +1,5 @@
+Thesis Plan
 
+  The aim of the thesis is that the performance of autonomous robots in the known environment is very high however, robots in the unknown environment might not complete the task properly.
+The first aim is to enable the robots to recognize the environment. If the robot can recognize the environment, it can use learning algorithms to improve its performance.
+The learning algorithms can improve incorrect knowledge about the environment and improve adaptation to the environment by using the robot's speed, position, and rotation.
